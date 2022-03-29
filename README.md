@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data analysis , Machine Learning and probably about TV series recommendations**
+- 💬 Ask me about **Data analysis , Machine Learning, Python and probably about TV series recommendations**
 
 - 📫 How to reach me **pranaysawant17@rediffmail.com**
 
